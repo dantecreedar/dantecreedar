@@ -36,6 +36,7 @@
  
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" alt="Nodejs" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" alt="Sass" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/gamedev.svg" alt="GameDev" style="vertical-align:top; margin:4px">
  
  <img src="https:https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vs" style="vertical-align:top; margin:4px">
