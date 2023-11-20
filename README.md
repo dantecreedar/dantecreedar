@@ -32,7 +32,6 @@
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" alt="vsc" style="vertical-align:top; margin:4px">
  
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" alt="Nodejs" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" alt="Sass" style="vertical-align:top; margin:4px">
